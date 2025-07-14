@@ -1,0 +1,3 @@
+I haven't tested the endzone logos. 
+I found this online and resized/renamed.  
+Simply remove the textures if they look off.
