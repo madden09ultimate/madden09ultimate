@@ -68,7 +68,7 @@ ECHO This may take a few moments to load and run. If prompted by IMGBURN, press 
   EXIT
 
 :burn
-  ImgBurn /mode build /src "next" /dest "Madden 09 Mod.iso" /volumelabel "MADDEN 09 MOD" /start /overwrite yes /close
+  ImgBurn /mode build /src "next" /dest "Madden 09 Mod.iso" /volumelabel "MADDEN 09 MOD" /rootfolder /noimagedetails /start /overwrite yes /close
   ECHO MADDEN 09 MOD ISO Game successfully created!
   PAUSE
 

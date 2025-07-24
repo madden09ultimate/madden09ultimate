@@ -1,0 +1,13 @@
+local_directory: G:\test\textures
+github_token: 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
+last_run_date: 2005-07-11 00:00:00.000000
+initial_setup_done: True
+debug_mode: False
+###^^^^^ ABOVE IS AUTO-GENERATED. DO NOT EDIT ^^^^^###  
+project_name: Madden 09 Deluxe
+owner: madden09deluxe
+repo: madden09deluxe
+branch_name: main
+subdirectory: textures
+slus_folder: SLUS-21770
+json_url: https://raw.githubusercontent.com/madden09deluxe/madden09deluxe/refs/heads/main/textureupdaterjson/installer-data.json
