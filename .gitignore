@@ -4,3 +4,4 @@ SLUS-21770/dumps
 *.zip
 *.bmp
 *.sym
+installer-data.json
