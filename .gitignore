@@ -4,3 +4,5 @@ SLUS-21770/dumps
 *.zip
 *.bmp
 *.sym
+*.7z
+/textures/SLUS-21770/replacements/- 1 2 user-customs
